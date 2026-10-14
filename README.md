@@ -13,7 +13,7 @@ Ambas rutas quedan registradas en tiempo real en una única planilla de Google S
 
 ## 📸 Arquitectura del Escenario
 
-![Mommy Flow - Diagrama Make](assets/Make_mas_desafios.png)
+![Mommy Flow - Diagrama Make](assets/Make_mas_Desafios.png)
 
 ---
 
