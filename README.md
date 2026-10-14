@@ -97,6 +97,6 @@ Abogada (UBA - Esp. Derecho Empresarial) | Counselor / Consultora Psicológica |
 📍 Ubicación: Lobos, Buenos Aires, Argentina  
 
 ### 🔗 Enlaces Profesionales
-* GitHub: https://github.com/noeliaorsini
-* LinkedIn: https://www.linkedin.com/in/noeliaorsini/
-* Portafolio (Lovable): https://lovable.dev/@noeliaorsini
+* 💼 **LinkedIn:** [linkedin.com/in/noelia-orsini](https://www.linkedin.com/in/noelia-orsini)
+* 🐙 **GitHub:** [github.com/NoeliaOrsini](https://github.com/NoeliaOrsini)
+* 🌐 **Portafolio:** [noelia-orsini-portafolio.lovable.app](https://noelia-orsini-portafolio.lovable.app/)
